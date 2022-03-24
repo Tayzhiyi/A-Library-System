@@ -15,5 +15,5 @@ To facilitate the construction of ALS, the following functions have been gathere
 11) Fine Payment
 12) Display books on loan
 13) Display books on reservation
-14) Dislpay members who have outstandning fines
+14) Display members who have outstanding fines
 15) Display the books on loan to a member given the membership id
